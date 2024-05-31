@@ -8,7 +8,7 @@ import argparse
 import pathlib
 
 from model import CAModel
-
+ 
 
 def load_image(path, size=40):
     """Load an image
